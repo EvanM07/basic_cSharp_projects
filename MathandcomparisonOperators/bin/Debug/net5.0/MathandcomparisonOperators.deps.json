@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MathandcomparisonOperators/1.0.0": {
+        "runtime": {
+          "MathandcomparisonOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathandcomparisonOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

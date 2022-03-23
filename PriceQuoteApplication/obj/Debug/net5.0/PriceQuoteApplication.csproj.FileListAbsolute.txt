@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.exe
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.deps.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.runtimeconfig.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\ref\PriceQuoteApplication.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\bin\Debug\net5.0\PriceQuoteApplication.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\ref\PriceQuoteApplication.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\PriceQuoteApplication\obj\Debug\net5.0\PriceQuoteApplication.genruntimeconfig.cache

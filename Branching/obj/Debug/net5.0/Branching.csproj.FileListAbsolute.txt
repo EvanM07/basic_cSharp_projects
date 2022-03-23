@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.exe
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.deps.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.runtimeconfig.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\ref\Branching.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\bin\Debug\net5.0\Branching.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\ref\Branching.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Branching\obj\Debug\net5.0\Branching.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.exe
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.deps.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.runtimeconfig.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\ref\Income_Comparison_Assignment.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\bin\Debug\net5.0\Income_Comparison_Assignment.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\ref\Income_Comparison_Assignment.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Income_Comparison_Assignment\obj\Debug\net5.0\Income_Comparison_Assignment.genruntimeconfig.cache

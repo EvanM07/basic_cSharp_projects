@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Income_Comparison_Assignment/1.0.0": {
+        "runtime": {
+          "Income_Comparison_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Income_Comparison_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

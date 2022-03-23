@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.exe
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.deps.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.runtimeconfig.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\ref\BooleanLogic.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\bin\Debug\net5.0\BooleanLogic.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\ref\BooleanLogic.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\BooleanLogic\obj\Debug\net5.0\BooleanLogic.genruntimeconfig.cache

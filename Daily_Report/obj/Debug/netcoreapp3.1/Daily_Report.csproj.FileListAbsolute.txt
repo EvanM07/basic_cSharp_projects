@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.exe
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.deps.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\Laptop\Desktop\Basic_C#_Programs\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.genruntimeconfig.cache
