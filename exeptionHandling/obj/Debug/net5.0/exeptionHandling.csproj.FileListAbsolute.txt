@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\ref\exeptionHandling.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\bin\Debug\net5.0\exeptionHandling.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\ref\exeptionHandling.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\exeptionHandling\obj\Debug\net5.0\exeptionHandling.genruntimeconfig.cache

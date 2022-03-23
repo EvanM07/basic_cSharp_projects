@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

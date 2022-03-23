@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\ref\Classes_and_Methods_Assignment_1.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\bin\Debug\net5.0\Classes_and_Methods_Assignment_1.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\ref\Classes_and_Methods_Assignment_1.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Classes_and_Methods_Assignment_1\obj\Debug\net5.0\Classes_and_Methods_Assignment_1.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.exe
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.deps.json
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.json
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\Laptop\source\repos\Accounting\bin\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.pdb
+C:\Users\Laptop\source\repos\Accounting\obj\Debug\netcoreapp3.1\Accounting.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\obj\Debug\netcoreapp3.1\Accounting.pdb

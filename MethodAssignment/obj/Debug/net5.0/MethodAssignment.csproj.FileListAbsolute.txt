@@ -1,0 +1,32 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\ref\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\ref\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.exe
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\ref\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\bin\Debug\net5.0\MethodAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\ref\MethodAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic_C_Sharp_Projects\MethodAssignment\obj\Debug\net5.0\MethodAssignment.genruntimeconfig.cache

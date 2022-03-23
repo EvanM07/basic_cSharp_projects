@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ref\ExceptionAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\bin\Debug\net5.0\ExceptionAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ref\ExceptionAssignment.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\ExceptionAssignment\obj\Debug\net5.0\ExceptionAssignment.genruntimeconfig.cache
