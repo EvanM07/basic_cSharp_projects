@@ -12,6 +12,6 @@ namespace Operator_Overloading_Assignment
         public string lastName  { get; set; }
 
 
-
+            public static employee operator== (employee.)
     }
 }
