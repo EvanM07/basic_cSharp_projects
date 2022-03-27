@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Generics_Assignment
 {
-    public class Employee <>
+    public class Employee <t>
     {
-        public List<work> Things  { get; set; }
+        public List<t> Things  { get; set; }
 
 
     }

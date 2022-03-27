@@ -1,0 +1,5 @@
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.csproj.CoreCompileInputs.cache

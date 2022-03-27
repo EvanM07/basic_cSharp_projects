@@ -6,9 +6,12 @@ namespace Generics_Assignment
     {
        public static void Main(string[] args)
         {
-            Employee<> employeeOne = new Employee<work>();
+            Employee<t> employeeOne = new Employee<t>();
 
-            employeeOne.Things = new List<work>
+            employeeOne.Things = new List<t>
+            {
+
+            };
 
 
 
