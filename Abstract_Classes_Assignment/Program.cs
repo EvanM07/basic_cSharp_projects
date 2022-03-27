@@ -6,13 +6,25 @@ namespace Abstract_Classes_Assignment
     {
         static void Main(string[] args)
         {
-            Employee newEmployee = new Employee();
-            {
-                newEmployee.firstName = "Sample";
-                newEmployee.lastName = "Student";
-                newEmployee.SayName();
-            }
+            //Employee newEmployee = new Employee();
+            //{
+
+            //    newEmployee.SayName();
+            //}
+
+            //Employee employee2 = new Employee();
+            //{
+            //    newEmployee.SayName();
+
+            //}
+
+
+            
+
 
         }
+
+
     }
 }
+

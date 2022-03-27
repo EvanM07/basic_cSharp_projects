@@ -11,14 +11,16 @@ namespace Abstract_Classes_Assignment
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public void SayName()
+        public virtual void SayName()
         {
-            string firstName = "Sample";
-            string lastName = "Student";
+            string firstName = "";
+            string lastName = "";
             string fullName = firstName + lastName;
 
             Console.WriteLine("The person's full name is " + fullName);
             Console.ReadLine();
         }
+
+
     }
 }
