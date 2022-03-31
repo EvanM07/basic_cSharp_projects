@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\ref\Interfaces_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\bin\Debug\net5.0\Interfaces_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\ref\Interfaces_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Interfaces_Assignment\obj\Debug\net5.0\Interfaces_Assignment.genruntimeconfig.cache

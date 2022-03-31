@@ -6,24 +6,30 @@ using System.Threading.Tasks;
 
 namespace Abstract_Classes_Assignment
 {
-    public class Employee : abstract_class, IQuittable
+    public class Employee : IQuittable
     {
-        public override void SayName()
-        {
-            base.SayName();
-            Employee newEmployee2 = new Employee();
-            newEmployee2.firstName = "Sample";
-            newEmployee2.lastName = "Employee";
-            newEmployee2.SayName();
+        //public override void SayName()
+        //{
+        //    base.SayName();
 
-            Employee newEmployee = new Employee();
-            newEmployee.firstName = "Joe";
-            newEmployee.lastName = "Shmo";
-            newEmployee.SayName();
+        //}
+
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+
+        public virtual void SayName()
+        {
+            string FirstName = firstName;
+            string LastName = lastName;
+            string fullName = firstName + lastName;
+
+            Console.WriteLine("The person's full name is " + fullName);
+            Console.ReadLine();
         }
-      
+
+
 
     }
 
- 
+
 }

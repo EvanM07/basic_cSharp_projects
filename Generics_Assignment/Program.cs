@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 
 namespace Generics_Assignment
 {
@@ -6,12 +8,13 @@ namespace Generics_Assignment
     {
        public static void Main(string[] args)
         {
-            Employee<t> employeeOne = new Employee<t>();
+            Employee<string> employeeOne = new Employee<string>();
 
-            employeeOne.Things = new List<t>
+            employeeOne.Things = new List<string>();
             {
 
-            };
+
+            }
 
 
 
