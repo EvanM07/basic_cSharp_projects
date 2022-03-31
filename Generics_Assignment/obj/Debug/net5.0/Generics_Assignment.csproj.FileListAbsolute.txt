@@ -3,3 +3,14 @@ C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\D
 C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.AssemblyInfoInputs.cache
 C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.AssemblyInfo.cs
 C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\ref\Generics_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\bin\Debug\net5.0\Generics_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\ref\Generics_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Generics_Assignment\obj\Debug\net5.0\Generics_Assignment.genruntimeconfig.cache
