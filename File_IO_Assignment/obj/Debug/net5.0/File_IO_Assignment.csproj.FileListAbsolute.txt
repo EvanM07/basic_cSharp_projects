@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\ref\File_IO_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\bin\Debug\net5.0\File_IO_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\ref\File_IO_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\File_IO_Assignment\obj\Debug\net5.0\File_IO_Assignment.genruntimeconfig.cache
