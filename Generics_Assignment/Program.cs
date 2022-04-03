@@ -17,16 +17,17 @@ namespace Generics_Assignment
             Employee<int> employeeTwo = new Employee<int>();
             employeeTwo.Things = new List<int>() { 1, 3, 4, 5 };
 
-            for (var i = 0; i < 3; i++)
+            for (var i = 0; i < 4; i++)
             {
-                for (int j = 0; j < 3; j++)
+                for (int j = 0; j < 4; j++)
                 {
-                    employeeOne.Things = (Things)i;
+                    Console.WriteLine("The values for employee one are :" +  employeeOne.Things[i]);
 
-
+                    Console.WriteLine("The values for employee two are  :" + employeeTwo.Things[i]);
 
                 }
             }
+
         }
     }
 }
