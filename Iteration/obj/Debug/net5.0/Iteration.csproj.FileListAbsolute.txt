@@ -1,0 +1,16 @@
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.exe
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.deps.json
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.runtimeconfig.json
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.dll
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\ref\Iteration.dll
+C:\Users\Laptop\source\repos\Iteration\bin\Debug\net5.0\Iteration.pdb
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.dll
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\ref\Iteration.dll
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.pdb
+C:\Users\Laptop\source\repos\Iteration\obj\Debug\net5.0\Iteration.genruntimeconfig.cache
