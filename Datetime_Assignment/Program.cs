@@ -16,7 +16,6 @@ namespace Datetime_Assignment
             Console.WriteLine("The time will be " + DateTime.Now.AddHours(userInput));
 
 
-
         }
     }
 }
