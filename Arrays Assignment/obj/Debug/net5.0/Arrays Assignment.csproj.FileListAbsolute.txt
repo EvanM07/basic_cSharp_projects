@@ -14,3 +14,19 @@ C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Arrays Assignment\obj\De
 C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Arrays Assignment\obj\Debug\net5.0\ref\Arrays Assignment.dll
 C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.pdb
 C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\ref\Arrays Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\ref\Arrays Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\bin\Debug\net5.0\Arrays Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Arrays Assignment\obj\Debug\net5.0\Arrays Assignment.genruntimeconfig.cache
