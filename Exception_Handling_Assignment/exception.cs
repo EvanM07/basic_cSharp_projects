@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exception_Handling_Assignment
 {
-   public class exception
-    {
-        bool 
+   //public class exception
+   // {
+   //     bool 
 
-    }
+   // }
 }

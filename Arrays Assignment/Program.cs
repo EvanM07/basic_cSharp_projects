@@ -36,23 +36,23 @@ namespace Arrays_Assignment
             //    Console.ReadLine();
             //}
             
-            try
-            {
-                string[] words = { "this", "computer", "is", "a", "computer" };
-                List<string> newLIst = new List<string>();
-                newLIst.AddRange(words);
+            //try
+            //{
+            //    string[] words = { "this", "computer", "is", "a", "computer" };
+            //    List<string> newLIst = new List<string>();
+            //    newLIst.AddRange(words);
 
-                Console.WriteLine("There are please select one out of 4 words in the list ");
+            //    Console.WriteLine("There are please select one out of 4 words in the list ");
 
-                int userInput = Convert.ToInt32(Console.ReadLine());
+            //    int userInput = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine(words[userInput]);
-            }
-            catch
-            {
-                Console.WriteLine("Please input a number that correlates to a word in the list ");
+            //    Console.WriteLine(words[userInput]);
+            //}
+            //catch
+            //{
+            //    Console.WriteLine("Please input a number that correlates to a word in the list ");
                 
-            }
+            //}
 
 
 

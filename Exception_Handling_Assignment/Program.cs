@@ -10,26 +10,35 @@ namespace Exception_Handling_Assignment
 {
     class Program
     {
-      public static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             try
             {
-           Console.WriteLine("Please type in your age");
-            int Age = Convert.ToInt32(Console.ReadLine());
+                List<int> numbers = new List<int>();
+                numbers.AddRange(Enumerable.Range(0, 100));
 
-            Console.WriteLine("Your age is " + Age);
+                foreach (int number in numbers)
+                    Console.WriteLine(number);
+
+                Console.WriteLine("Please type in your age");
+                int Age = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Your age is " + Age, numbers);
+
+
             }
-            catch (exception)
+            catch (ArgumentOutOfRangeException I)
             {
+                Console.WriteLine(I.Message);
+
+
 
             }
-                        
 
-
-         
 
 
         }
     }
 }
+
