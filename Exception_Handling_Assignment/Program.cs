@@ -26,11 +26,10 @@ namespace Exception_Handling_Assignment
 
                 Console.WriteLine("Your age is " + Age, numbers);
 
-
             }
-            catch (ArgumentOutOfRangeException I)
+            catch (System.ArgumentOutOfRangeException number) 
             {
-                Console.WriteLine(I.Message);
+                Console.WriteLine(number.Message + "Sorry can't type in that age");
 
 
 
