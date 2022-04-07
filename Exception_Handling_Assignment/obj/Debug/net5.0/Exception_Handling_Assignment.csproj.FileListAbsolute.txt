@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\ref\Exception_Handling_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\bin\Debug\net5.0\Exception_Handling_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\ref\Exception_Handling_Assignment.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\Exception_Handling_Assignment\obj\Debug\net5.0\Exception_Handling_Assignment.genruntimeconfig.cache
