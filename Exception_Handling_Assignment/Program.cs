@@ -13,8 +13,7 @@ namespace Exception_Handling_Assignment
         public static void Main(string[] args)
         {
 
-            try
-            {
+
                 List<int> numbers = new List<int>();
                 numbers.AddRange(Enumerable.Range(0, 100));
 
@@ -24,19 +23,37 @@ namespace Exception_Handling_Assignment
                 Console.WriteLine("Please type in your age");
                 int Age = Convert.ToInt32(Console.ReadLine());
 
-                //Console.WriteLine("Your age is " + Age, numbers);
-                for (int i = 0; i < numbers.Count; i++)
+            for (int i = 0; i < numbers.Count; i++)
+            
+                if (Age != i )
+                {
+                    throw new ArgumentOutOfRangeException("Sorry can't be a negative number or over the range " +
+                                                          "  of numbers listed " );
 
-                    if (Age != i) ;
-                throw new ArgumentOutOfRangeException();
+                }
 
-            }
-            catch (ArgumentOutOfRangeException e )
-            {
 
-                Console.WriteLine(e.Message);
+                else
+                {
+                    Console.WriteLine("Your age is " + Age, numbers);
 
-            }
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }
