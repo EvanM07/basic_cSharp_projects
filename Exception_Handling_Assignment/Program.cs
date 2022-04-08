@@ -24,20 +24,60 @@ namespace Exception_Handling_Assignment
                 Console.WriteLine("Please type in your age");
                 int Age = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Your age is " + Age, numbers);
+                //Console.WriteLine("Your age is " + Age, numbers);
+                for (int i = 0; i < numbers.Count; i++)
+
+                    if (Age != i) ;
+                throw new ArgumentOutOfRangeException();
 
             }
-            catch (System.ArgumentOutOfRangeException number) 
+            catch (ArgumentOutOfRangeException e )
             {
-                Console.WriteLine(number.Message + "Sorry can't type in that age");
 
-
+                Console.WriteLine(e.Message);
 
             }
-
 
 
         }
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//List<int> numbers = new List<int>();
+//numbers.AddRange(Enumerable.Range(0, 100));
+
+//foreach (int number in numbers)
+//    Console.WriteLine(number);
+
+//Console.WriteLine("Please type in your age");
+//int Age = Convert.ToInt32(Console.ReadLine());
+
+//Console.WriteLine("Your age is " + Age, numbers);
+
+//for (int i = 0; i < numbers.Count; i++)
+//
+//    if (Age < i) ;
+
+
+//
